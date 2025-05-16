@@ -1,1 +1,2 @@
-hello
+
+# langchain 优化embedding 
